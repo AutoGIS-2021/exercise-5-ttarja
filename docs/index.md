@@ -16,6 +16,7 @@ In order to access the files via the links, you need to set the repository as pu
 
 Edit the text below and add links to the maps that you have created:
 
+
 ## Residents per building
 Residents per building shows the population divided by the number of residential buildings in each grid cell.
 Population and building grid data provided by Helsinki Region Environmental Services HSY.
@@ -28,6 +29,6 @@ Markers on the map show the locations of the shopping centers. Tooltips tell the
 The default choropleth layer shows travel time to the closest shopping center by public transport.
 The optional choropleth layers show the difference in travel time between public transport and car, and public transport and walking.
  
- - [My interactive map](https://autogis-2021.github.io/exercise-5-ttarja/Travel_times_choropleth.html)
+[My interactive map](https://autogis-2021.github.io/exercise-5-ttarja/Travel_times_choropleth.html)
  
 
