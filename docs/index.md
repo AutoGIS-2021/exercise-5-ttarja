@@ -16,9 +16,18 @@ In order to access the files via the links, you need to set the repository as pu
 
 Edit the text below and add links to the maps that you have created:
 
- - [My static map]()
- - [My interactive map]()
+## Residents per building
+Residents per building shows the population divided by the number of residential buildings in each grid cell.
+Population and building grid data provided by Helsinki Region Environmental Services HSY.
+
+[My static map](https://autogis-2021.github.io/exercise-5-ttarja/residents_per_building.png)
+
+## Travel times to the closest shopping center
+Closest shopping center was calculated based on travel time by public transport in rush hour (exercise 4).
+Markers on the map show the locations of the shopping centers. Tooltips tell the name and the address of each shopping center.
+The default choropleth layer shows travel time to the closest shopping center by public transport.
+The optional choropleth layers show the difference in travel time between public transport and car, and public transport and walking.
  
- You can check syntax for formatting the links in here: 
- - [Link to test map](https://autogis-2021.github.io/exercise-5-haavardaagesen/test_map.html)
+ - [My interactive map](https://autogis-2021.github.io/exercise-5-ttarja/Travel_times_choropleth.html)
+ 
 
